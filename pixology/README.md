@@ -13,7 +13,7 @@
 
   Pixology is a fully responsive digital agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/pixology/"><strong>➥ Live Demo</strong></a>
+  <a href="https:// .github.io/pixology/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -36,18 +36,18 @@ To run **Pixology** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/pixology.git
+sudo git clone https://github.com/Rupeshkr004/Docker-projects.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/pixology.git
+git clone https://github.com/Rupeshkr004/Docker-projects.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at Linkdin
 
 ### License
 
